@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kylesevery
-- 👀 I’m interested in ... software development, gaming, politics and Theravada Buddhism
+- 👀 I’m interested in ... software development, gaming, politics and theravada buddhism
 - 🌱 I’m currently learning ... web development
 - 💞️ I’m looking to collaborate on ... interesting open source projects
 - 📫 How to reach me ... kyle.severy@gmail.com
